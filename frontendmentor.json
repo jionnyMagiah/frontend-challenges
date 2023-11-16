@@ -8,7 +8,12 @@
             "solution": "https://jionnymagiah.github.io/results-summary-component-main/",
             "code": "https://github.com/jionnyMagiah/results-summary-component-main",
             "link": "https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV",
-            "desc": "The first challenge solved by me", 
+            "desc": "The aim of this challenge is to reproduce a component to display the scores obtained in different categories.  
+Frontend Mentors provides the score, name and icon for each category. They are loaded when the page loads and used to populate all the fields.`inline code`
+```
+multiline code
+```
+", 
             "id": "id1"
         },
         {
