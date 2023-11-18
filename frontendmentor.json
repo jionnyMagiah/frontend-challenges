@@ -9,7 +9,8 @@
       "code": "https://github.com/jionnyMagiah/results-summary-component-main",
       "link": "https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV",
       "tags": ["HTML","CSS", "JS"],
-"desc": "The aim of this challenge is to reproduce a component to display the scores obtained in different categories.\nFrontend Mentors provides the score, name and icon for each category.\nThey are loaded when the page loads and used to populate all the fields.`inline code`\n```\nmultiline code\n```",      "id": "id1"
+      "desc": "The aim of this challenge is to reproduce a component to display the scores obtained in different categories.\nFrontend Mentors provides the score, name and icon for each category.\nThey are loaded when the page loads and used to populate all the fields.`inline code`\n```\nmultiline code\n```",
+      "id": "id1"
     },
     {
       "name": "Product preview card component",
@@ -17,7 +18,8 @@
       "code": "https://github.com/jionnyMagiah/product-preview-card-component-main/",
       "link": "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa",
       "desc": "The first challenge solved by me",
-      "task": "Design a component for a static product preview card"
+      "task": "Design a component for a static product preview card",      
+      "id": "id2"
     },
     {
       "name": "Interactive rating component",
@@ -25,7 +27,8 @@
       "code": "https://github.com/jionnyMagiah/interactive-rating-component-main",
       "link": "https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI",
       "desc": "The first challenge solved by me",
-      "task": "Design a component to allow user to give ratings"
+      "task": "Design a component to allow user to give ratings",      
+      "id": "id3"
     },
     {
       "name": "QR code component",
@@ -33,7 +36,8 @@
       "code": "https://github.com/jionnyMagiah/qr-code-component-main",
       "link": "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H",
       "desc": "The first challenge solved by me",
-      "task": "Design a component to display a qr code"
+      "task": "Design a component to display a qr code",
+      "id": "id4"
     },
     {
       "name": "REST Countries API",
@@ -41,7 +45,8 @@
       "code": "https://github.com/jionnyMagiah/rest-countries-api-with-color-theme-switcher-master",
       "link": "https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca",
       "desc": "The first challenge solved by me",
-      "task": "Build a web app that shows all the countries and their details"
+      "task": "Build a web app that shows all the countries and their details",      
+      "id": "id5"
     }
   ]
 }
